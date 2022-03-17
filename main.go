@@ -10,7 +10,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/wickett/word-cloud-generator/wordyapi"
+	"github.com/zhamao2019/cicd-practice/wordyapi"
 )
 
 // serves up our static content like html
